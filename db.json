@@ -1,0 +1,6 @@
+{
+  "heroes": [
+    {"id": 1, "name": "Magneta"},
+    {"id": 2, "name": "Electroman"}
+  ]
+}
